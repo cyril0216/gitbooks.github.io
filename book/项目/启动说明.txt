@@ -1,0 +1,7 @@
+1. 安装python环境  推荐python3.5以上版本
+2. 安装依赖模块：pip install -r requirements.txt -i https://pypi.douban.com/simple
+   若安装速度慢，指定国内源,需再加上: -i https://pypi.douban.com/simple    
+3. 如果须使用mysql，那么需要将studentManagementSystem/studentManagementSystem/settings.py的第78行的配置更改一下，注释掉sqllite3，解注释mysql的配置
+4. 执行studentManagementSystem.sql文件，生成数据库
+5. 启动命令：python run_server.py
+6. 默认端口是8000，地址本机ip

@@ -1,0 +1,21 @@
+# Summary
+
+* [第1章-Web自动化入门](C01-Introduction/README.md)
+  * [Web自动化工具选择](C01-Introduction/choice_tools.md)
+  * [Selnium 概述、环境搭建](C01-Introduction/install_selenium.md)
+* [第2章-WebDriver基本操作](C02-WebDriver_Base/README.md)
+  * [元素定位](C02-WebDriver_Base/elements_location.md)
+  * [xpath、css定位](C02-WebDriver_Base/xpath_css.md)
+  * [元素和浏览器操作方法](C02-WebDriver_Base/ele_webdriver.md)
+  * [元素等待](C02-WebDriver_Base/ele_wait.md)
+* [第3章-WebDriver中级](C03-WebDriver_pro/README.md)
+  * [鼠标、键盘操作](C03-WebDriver_pro/mouse_key_operations.md)
+  * [下拉选择框、警告框、滚动条操作](C03-WebDriver_pro/select_alert_scroll.md)
+  * [frame 表单切换、多窗口切换](C03-WebDriver_pro/frame_windows.md)
+  * [窗口截图、验证码处理](C03-WebDriver_pro/screenshot.md)
+* [第4章-自动化测试-高级篇](C04-WebDriver_grate/README.md)
+  * [UnitTest框架](C04-WebDriver_grate/UnitTest.md)
+  * [UnitTest断言](C04-WebDriver_grate/alert.md)
+  * [生成HTML测试报告](C04-WebDriver_grate/testcase_log.md)
+  * [附件-断言资料](C04-WebDriver_grate/alert_log.md)
+
